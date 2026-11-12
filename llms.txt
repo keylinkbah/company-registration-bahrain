@@ -1,0 +1,22 @@
+# Keylink — Company Registration in Bahrain
+
+> Independent planning guidance on Bahrain commercial registration, legal structures, required documents, costs and separate licensing, banking and immigration processes.
+
+Keylink Business Support offers registration preparation and application support. This website is not a government authority. Guidance is general information, not legal, tax or immigration advice. Requirements and charges vary by activity and applicant. Verify current regulatory claims with the official sources linked in the guide. No approval, bank account, residence permission, indexing, citation or search ranking is guaranteed.
+
+## Pages
+
+- [Company registration in Bahrain](./index.html): Public landing page with activity-led planning guidance and business enquiry options.
+
+## Guides
+
+- [Company registration in Bahrain — Markdown guide](./company-registration-bahrain.md): Readable companion with legal structures, preparation, documents, costs, FAQs, limitations and official references.
+
+## Optional
+
+- [Keylink company formation service](https://keylinkbah.com/company-formation-bahrain): Provider service information and enquiries.
+- [Sijilat](https://www.sijilat.bh/setupyourbusiness.aspx): Official business registration and activity requirements.
+- [MOIC regulations](https://www.moic.gov.bh/en/regulations): Official legal and regulatory references.
+- [NBR VAT registration](https://www.nbr.gov.bh/vat_registration): Official VAT registration guidance.
+- [NBR DMTT guidance](https://www.nbr.gov.bh/dmtt_faqs): Official multinational group tax guidance.
+- [LMRA work permits](https://www.lmra.gov.bh/en/page/show/106): Official employment permit requirements.
